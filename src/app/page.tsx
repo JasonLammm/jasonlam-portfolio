@@ -19,7 +19,7 @@ export default async function HomePage() {
 
   return (
     <div className="h-screen flex flex-col lg:flex-row bg-cBg font-font px-8 py-24 relative overflow-y-auto">
-      <div className="bg-cBg lg:w-full px-6 lg:px-20 lg:sticky lg:top-0 lg:left-0 lg:min-h-1/3 lg:order-1">
+      <div className="bg-cBg lg:w-full px-6 lg:px-20 lg:sticky lg:top-0 lg:left-0 lg:h-screen lg:overflow-y-auto lg:order-1">
         <Head />
       </div>
       <div className="flex-row bg-cBg px-6 lg:px-12 py-8 grid grid-cols-1 gap-10 lg:order-2">
@@ -35,14 +35,14 @@ export default async function HomePage() {
         <div id="Projects">
           <Projects />
         </div>
-        <div id="Experience">
+        <div id="Experience" className="bg-cBlock/80 rounded-xl p-6 shadow-md shadow-black/40">
           <MarkdownContent content={experienceContent} />
         </div>
         {/* <div id="Certificates">
           <MarkdownContent content={certificateContent} />
         </div>
         */}
-        <div id="Footer">
+        <div id="Footer" className="text-center text-sm text-cBody/80">
           <MarkdownContent content={footerContent} />
         </div>
       </div>
