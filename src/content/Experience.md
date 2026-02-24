@@ -1,29 +1,25 @@
-# Work Experience
+### Software Engineering Intern
 
-***
+**InnoSpire Technology Limited** | _July 2025 - August 2025_
 
-## Company Name 1 - Position Name 1
+- Developed a full-stack **AI-Powered Exam System** utilizing **Node.js, Express**, and Generative AI (**Gemini 2.5**) to fully automate the creation of academic exam papers and marking schemes.
+- Engineered a sophisticated Retrieval-Augmented Generation (RAG) data pipeline handling PDF document conversion via **Azure Document AI** and text chunking using **spaCy**.
+- Integrated and managed vector embeddings via **Google Cloud**, securely storing them in **Supabase (pg_vector)** for efficient retrieval.
 
-### Dates You Held the Position
+---
 
-### Location
+### Software Engineering Intern
 
-- Duties Performed 1
+**HeyBen** | _June 2025_
 
-- Duties Performed 2
+- Led WordPress site development by managing theme selection, subscription systems, and plugin integrations.
+- Built and deployed a highly functional, responsive web layout optimized for user experience and modern web standards.
 
-- Duties Performed 3
+---
 
-***
+### Executive Officer I / ADS / RP3 (Intern)
 
-## Company Name 2 - Position Name 2
+**EMSD CCep Team** | _June 2024 - August 2024_
 
-### Dates You Held the Position 2
-
-### Location 2
-
-- Duties Performed 1
-
-- Duties Performed 2
-
-- Duties Performed 3
+- Built a custom **Python** automation script to streamline the distribution of weekly timesheets and calendar scheduling, significantly reducing manual data entry.
+- Authored comprehensive documentation for complex technical workflows and created step-by-step user guides for internal teams.

@@ -13,8 +13,8 @@ export default async function Summary() {
         <div className="flex justify-start">
           <div className="relative">
             <Image
-              src="/images/headshot.png"
-              alt="My Headshot"
+              src="/images/headshot.jpg"
+              alt="Lam Leung Yiu, Jason headshot"
               width={100}
               height={100}
               className="rounded-full border-4 border-cBlock"
@@ -27,7 +27,7 @@ export default async function Summary() {
       </div>
       <div className="px-2 mt-8 flex flex-wrap justify-center md:justify-start gap-4 text-xl font-bold">
         <a
-          href="https://www.linkedin.com/in/trevor-rowland711/"
+          href="https://www.linkedin.com/in/jason-lam-237bb9298"
           target="_blank"
           rel="noopener noreferrer"
           className="text-cLink hover:text-cLinkVisited hover:underline"
@@ -35,7 +35,7 @@ export default async function Summary() {
           LinkedIn
         </a>
         <a
-          href="https://github.com/dBCooper2"
+          href="https://github.com/JasonLammm"
           target="_blank"
           rel="noopener noreferrer"
           className="text-cLink hover:text-cLinkVisited hover:underline"
@@ -43,7 +43,7 @@ export default async function Summary() {
           GitHub
         </a>
         <a
-          href="/documents/example-resume.pdf"
+          href="/documents/LamLeungYiu_resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="text-cLink hover:text-cLinkVisited hover:underline"

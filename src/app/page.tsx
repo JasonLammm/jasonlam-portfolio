@@ -11,7 +11,7 @@ export default async function HomePage() {
   const abstractContent = await fetchMarkdownContent('src/content/Abstract.md');
   const educationContent = await fetchMarkdownContent('src/content/Education.md');
   const experienceContent = await fetchMarkdownContent('src/content/Experience.md');
-  const certificateContent = await fetchMarkdownContent('src/content/Certificates.md');
+  // const certificateContent = await fetchMarkdownContent('src/content/Certificates.md');
   // const researchContent = await fetchMarkdownContent('src/content/Research.md');
   const footerContent = await fetchMarkdownContent('src/content/Footer.md');
 
@@ -38,9 +38,10 @@ export default async function HomePage() {
         <div id="Experience">
           <MarkdownContent content={experienceContent} />
         </div>
-        <div id="Certificates">
+        {/* <div id="Certificates">
           <MarkdownContent content={certificateContent} />
         </div>
+        */}
         <div id="Footer">
           <MarkdownContent content={footerContent} />
         </div>

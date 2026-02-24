@@ -1,19 +1,8 @@
 # Education
 
-## School Name
+## The Chinese University of Hong Kong (CUHK)
 
-### _Degree Earned_
+### Bachelor of Computer Science (Year 4)
 
-#### _Relevant Coursework_
-
-* Class 1
-
-* Class 3
-
-.
-.
-.
-
-* Class 4
-
-## Add Additional Schooling if Necessary
+- cGPA: 3.202/4.000
+- tGPA: 3.494/4.000

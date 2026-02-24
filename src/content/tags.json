@@ -1,22 +1,86 @@
 [
     {
-        "text":"Skill-1",
-        "color":"#A9A9A9"
+        "text": "Python",
+        "color": "#3776AB"
     },
     {
-        "text":"Skill-2",
-        "color":"#A9A9A9"
+        "text": "Java",
+        "color": "#007396"
     },
     {
-        "text":"Skill-3",
-        "color":"#A9A9A9"
+        "text": "C++",
+        "color": "#00599C"
     },
     {
-        "text":"Skill-4",
-        "color":"#A9A9A9"
+        "text": "C#",
+        "color": "#239120"
     },
     {
-        "text":"Skill-5",
-        "color":"#A9A9A9"
+        "text": "C",
+        "color": "#2D8CFF"
+    },
+    {
+        "text": "JavaScript",
+        "color": "#F7DF1E"
+    },
+    {
+        "text": "HTML",
+        "color": "#E34F26"
+    },
+    {
+        "text": "CSS",
+        "color": "#1572B6"
+    },
+    {
+        "text": "Node.js",
+        "color": "#339933"
+    },
+    {
+        "text": "React Native",
+        "color": "#61DAFB"
+    },
+    {
+        "text": "Unity Engine",
+        "color": "#000000"
+    },
+    {
+        "text": "OpenCV",
+        "color": "#5C3EE8"
+    },
+    {
+        "text": "MediaPipe",
+        "color": "#00C853"
+    },
+    {
+        "text": "Google Gemini",
+        "color": "#8E24AA"
+    },
+    {
+        "text": "Azure Document AI",
+        "color": "#0078D4"
+    },
+    {
+        "text": "Supabase",
+        "color": "#3ECF8E"
+    },
+    {
+        "text": "Socket Programming",
+        "color": "#FF5722"
+    },
+    {
+        "text": "Git",
+        "color": "#F05032"
+    },
+    {
+        "text": "REST APIs",
+        "color": "#009688"
+    },
+    {
+        "text": "R",
+        "color": "#1A9C5A"
+    },
+    {
+        "text": "SAS",
+        "color": "#1E90FF"
     }
 ]

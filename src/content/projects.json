@@ -1,23 +1,30 @@
 {
-    "1" : {
-        "title": "Project 1",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget faucibus lectus. Maecenas laoreet diam sit amet metus feugiat, eget posuere nisl dictum.",
-        "skills": ["Skill-1", "Skill-2", "Skill-3"],
-        "code": "https://github.com/dBCooper2/",
-        "demo": "https://trevor-rowland.vercel.app"
-    },
-    "2" : {
-        "title": "Project 2",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget faucibus lectus. Maecenas laoreet diam sit amet metus feugiat, eget posuere nisl dictum.",
-        "skills": ["Skill-1", "Skill-4"],
-        "code": "https://github.com/dBCooper2/",
-        "demo": ""
-    },
-    "3" : {
-        "title": "Project 3",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget faucibus lectus. Maecenas laoreet diam sit amet metus feugiat, eget posuere nisl dictum.",
-        "skills": ["Skill-1", "Skill-2", "Skill-3", "Skill-4"],
-        "code": "https://github.com/dBCooper2/",
-        "demo": "https://dbcooper.vercel.app"
-    }
+  "Project 1": {
+    "title": "AI-Powered Exam System",
+    "description": "A full-stack platform that automates the creation of academic exam papers and marking schemes. Engineered a sophisticated RAG data pipeline handling PDF conversion via Azure Document AI, text chunking via spaCy, and vector embeddings stored in Supabase.",
+    "skills": ["Node.js", "Express", "Google Gemini 2.5", "Supabase", "Azure Document AI", "spaCy"],
+    "code": "https://github.com/JasonLammm",
+    "demo": ""
+  },
+  "Project 2": {
+    "title": "ASL Educational Survival Game",
+    "description": "A 2D educational game built in Unity to teach American Sign Language through gamified survival mechanics. Developed a real-time computer vision pipeline using Python and MediaPipe to track hand landmarks, utilizing UDP socket communication to transmit gesture data to the game engine in real-time.",
+    "skills": ["Unity (C#)", "Python", "MediaPipe", "OpenCV", "Socket Programming (UDP)"],
+    "code": "https://github.com/JasonLammm/FYP-HandSignGame-Unity",
+    "demo": ""
+  },
+  "Project 3": {
+    "title": "Timetable Course Planner",
+    "description": "A full-stack web application designed to streamline university course scheduling and planning for students. Engineered a RESTful back-end API to manage course data, user profiles, and a robust CRUD comment section, secured by JWT-based user authentication.",
+    "skills": ["JavaScript", "Node.js", "REST APIs", "JWT Authentication"],
+    "code": "https://github.com/JasonLammm/timetable_course_planner",
+    "demo": ""
+  },
+  "Project 4": {
+    "title": "Split Bill Mobile App",
+    "description": "A mobile application designed to easily split expenses among groups. Features a responsive front-end integrated with a reliable backend for calculating and storing shared bills.",
+    "skills": ["React Native", "Node.js", "JavaScript"],
+    "code": "https://github.com/JasonLammm",
+    "demo": ""
+  }
 }

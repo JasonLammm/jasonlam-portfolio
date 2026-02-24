@@ -6,7 +6,7 @@ export default function Head() {
   return (
     <>
     <>
-      <title>My NextJS Portfolio</title>
+      <title>Lam Leung Yiu, Jason – Portfolio</title>
       <meta content="width=device.width, initial-scale=1" name="viewport" />
       <link rel="icon" href="/images/favicon.ico" sizes="any" />
     </>
@@ -20,7 +20,7 @@ export default function Head() {
           <ResumeButton sectionId="Education" />
           <ResumeButton sectionId="Projects" />
           <ResumeButton sectionId="Experience" />
-          <ResumeButton sectionId="Certificates" />
+          {/* <ResumeButton sectionId="Certificates" /> */}
         </div>
       </div>
     </div>
