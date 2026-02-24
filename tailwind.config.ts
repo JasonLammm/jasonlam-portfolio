@@ -14,21 +14,22 @@ const config: Config = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
       colors: {
-        cBg: '#000000', // background color
-        cBgGradient: '#000000', // background color gradient
-        cH1: '#FFFFFF', // heading 1 text color
-        cH2: '#FFFFFF', // heading 2 text color
-        cH3: '#FFFFFF', // heading 3 text color
-        cH4: '#FFFFFF', // heading 4 text color
-        cH5: '#FFFFFF', // heading 5 text color
-        cH6: '#FFFFFF', // heading 6 text color
-        cBody: '#FFFFFF', // body text color
-        cBlock: '#808080', // code block color
-        cLink: '#FFFFFF', // link color
-        cLinkVisited: '#FFFFFF', // visited link color
-        cButton: '#808080', // button color
-        cButtonHover: '#808080', // button hover color
-        cLineBreak: '#808080', // colors for line breaks
+        // Brittany Chiang–style navy theme
+        cBg: '#020c1b', // main background
+        cBgGradient: '#0a192f', // gradient / panel background
+        cH1: '#e6f1ff', // primary headings
+        cH2: '#e6f1ff',
+        cH3: '#e6f1ff',
+        cH4: '#e6f1ff',
+        cH5: '#e6f1ff',
+        cH6: '#e6f1ff',
+        cBody: '#8892b0', // body text
+        cBlock: '#112240', // cards / blocks
+        cLink: '#64ffda', // accent links
+        cLinkVisited: '#64ffda',
+        cButton: '#112240', // buttons / pills
+        cButtonHover: '#233554',
+        cLineBreak: '#233554', // dividers
       },
       fontFamily: {
         'font': ['Inter', 'sans-serif'],
