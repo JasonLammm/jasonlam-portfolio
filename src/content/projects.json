@@ -26,5 +26,13 @@
     "skills": ["React Native", "Node.js", "JavaScript"],
     "code": "https://github.com/JasonLammm",
     "demo": ""
+  },
+  "Project 5": {
+    "title": "Full-Stack E-Commerce Application",
+    "description": "A production-grade shopping cart deployed on Microsoft Azure with Nginx reverse proxy and Let's Encrypt TLS 1.3. Built CSRF protection from scratch using the synchronizer token pattern with cryptographic nonces. Hardened session security with HttpOnly, Secure, and SameSite=Strict cookie flags. Configured HTTP→HTTPS 301 redirects, static asset caching, and server fingerprint suppression in Nginx. Managed deployment via PM2, SCP, and SSH key-based authentication on Ubuntu 24.04.",
+    "skills": ["Node.js", "Express.js", "SQLite", "Nginx", "Azure"],
+    "code": "https://github.com/JasonLammm/shopping_cart",
+    "demo": "",
+    "domain": "https://s14.ierg4210.iecuhk.cc"
   }
 }
